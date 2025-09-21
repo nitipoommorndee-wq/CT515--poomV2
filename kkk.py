@@ -1,2 +1,13 @@
-#tyuuuuuuuuuuuuuuuuu
-print("sfafafadfdfsdfsdf")
+#tyuuuuuuuuuuuuuuuuuhjbhknjknjknjknjk
+print("poom")
+print("poom")
+print("poom")
+print("poom")
+print("poom")
+#kbnkbnkbnkbnk
+print("poom")
+print("poom")
+print("poom")
+print("poom")
+print("poom")
+print("poom")
